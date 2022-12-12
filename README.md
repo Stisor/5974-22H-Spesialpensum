@@ -46,14 +46,10 @@ WHERE\
 ```
 
 
-[1] Aurelien A. (2019) Hands-on Machine Learing with Scikit-Learn, Keras and TensorFlow. O’Reilly 
-Media, 2. edition
-
-[2] Mueller Andreas C. (2016) Introduction to Machine Learning with Python. O’Reilly Media, 4. 
-edition
-
-
 ## Running the code
+
+1. Python
+2. Jupyter
 
 Included in this repository is a [requirements.txt](https://github.com/Stisor/5974-22H-Spesialpensum/blob/main/requirements.txt) file that has all the dependencies used, but i will list the main ones here.
 
@@ -63,4 +59,16 @@ Included in this repository is a [requirements.txt](https://github.com/Stisor/59
 4. Scipy
 5. Pandas
 
+
 I have also chosen to use the [Feather](https://arrow.apache.org/docs/python/feather.html) file format, as it has various advantages over CSV, such as faster reads and writes, aswell as smaller files sizes.
+
+
+
+### Sources
+
+[^1]: Aurelien A. (2019) Hands-on Machine Learing with Scikit-Learn, Keras and TensorFlow. O’Reilly 
+Media, 2. edition
+
+[^2]: Mueller Andreas C. (2016) Introduction to Machine Learning with Python. O’Reilly Media, 4. 
+edition
+
