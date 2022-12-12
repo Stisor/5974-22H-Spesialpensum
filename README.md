@@ -9,11 +9,11 @@
   
 
 **Task**
-  Use data from M-Lab (Measurement Lab) to predict various network related data
+  - Use data from M-Lab (Measurement Lab) to predict various network related data
     * MinRTT (Ping / Latency)
     * Throughput (Packets that arrive (Mbps))
     * LossRate
-  As well as trying to do some predictions about city locations using Longitude and Latitude, weighted with Mbps
+  - As well as trying to do some predictions about city locations using Longitude and Latitude, weighted with Mbps
 
 
 
