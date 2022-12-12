@@ -66,9 +66,9 @@ I have also chosen to use the [Feather](https://arrow.apache.org/docs/python/fea
 
 ### Sources
 
-[^1]: Aurelien A. (2019) Hands-on Machine Learing with Scikit-Learn, Keras and TensorFlow. O’Reilly 
+* Aurelien A. (2019) Hands-on Machine Learing with Scikit-Learn, Keras and TensorFlow. O’Reilly 
 Media, 2. edition
 
-[^2]: Mueller Andreas C. (2016) Introduction to Machine Learning with Python. O’Reilly Media, 4. 
+* Mueller Andreas C. (2016) Introduction to Machine Learning with Python. O’Reilly Media, 4. 
 edition
 
