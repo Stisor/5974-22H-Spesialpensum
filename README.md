@@ -4,15 +4,15 @@
 
 
 **Peronal Goals:**
-  Learn about machine learning using python (Jupyter Notebook)
-  Learn basic python
+  * Learn about machine learning using python (Jupyter Notebook)
+  * Learn basic python
   
 
 **Task**
   Use data from M-Lab (Measurement Lab) to predict various network related data
-    MinRTT (Ping / Latency)
-    Throughput (Packets that arrive (Mbps))
-    LossRate
+    * MinRTT (Ping / Latency)
+    * Throughput (Packets that arrive (Mbps))
+    * LossRate
   As well as trying to do some predictions about city locations using Longitude and Latitude, weighted with Mbps
 
 
