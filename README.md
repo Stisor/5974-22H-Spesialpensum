@@ -18,7 +18,8 @@
 
 
 **Sql Query**
-  This is the sql query i used to get the data from M-Lab
+
+This is the sql query i used to get the data from M-Lab
 
 ```sql
 SELECT
