@@ -35,7 +35,7 @@ SELECT
   a.*
 FROM
   `measurement-lab.ndt.ndt7`
-WHERE\
+WHERE
   date BETWEEN "2017-04-11"
   AND "2022-04-11"
   AND client.Geo.CountryCode = "NO"
